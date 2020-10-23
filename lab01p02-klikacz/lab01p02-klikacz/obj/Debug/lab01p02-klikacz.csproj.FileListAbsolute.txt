@@ -1,0 +1,10 @@
+J:\Programy 2020\WSP_NST_L2\lab01p02-klikacz\lab01p02-klikacz\bin\Debug\lab01p02-klikacz.exe.config
+J:\Programy 2020\WSP_NST_L2\lab01p02-klikacz\lab01p02-klikacz\bin\Debug\lab01p02-klikacz.exe
+J:\Programy 2020\WSP_NST_L2\lab01p02-klikacz\lab01p02-klikacz\bin\Debug\lab01p02-klikacz.pdb
+J:\Programy 2020\WSP_NST_L2\lab01p02-klikacz\lab01p02-klikacz\obj\Debug\lab01p02-klikacz.csprojAssemblyReference.cache
+J:\Programy 2020\WSP_NST_L2\lab01p02-klikacz\lab01p02-klikacz\obj\Debug\lab01p02_klikacz.Properties.Resources.resources
+J:\Programy 2020\WSP_NST_L2\lab01p02-klikacz\lab01p02-klikacz\obj\Debug\lab01p02-klikacz.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_NST_L2\lab01p02-klikacz\lab01p02-klikacz\obj\Debug\lab01p02-klikacz.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_NST_L2\lab01p02-klikacz\lab01p02-klikacz\obj\Debug\lab01p02-klikacz.exe
+J:\Programy 2020\WSP_NST_L2\lab01p02-klikacz\lab01p02-klikacz\obj\Debug\lab01p02-klikacz.pdb
+J:\Programy 2020\WSP_NST_L2\lab01p02-klikacz\lab01p02-klikacz\obj\Debug\lab01p02_klikacz.Form1.resources

@@ -1,0 +1,9 @@
+J:\Programy 2020\WSP_NST_L2\lab01p03-suwak\lab01p03-suwak\bin\Debug\lab01p03-suwak.exe.config
+J:\Programy 2020\WSP_NST_L2\lab01p03-suwak\lab01p03-suwak\bin\Debug\lab01p03-suwak.exe
+J:\Programy 2020\WSP_NST_L2\lab01p03-suwak\lab01p03-suwak\bin\Debug\lab01p03-suwak.pdb
+J:\Programy 2020\WSP_NST_L2\lab01p03-suwak\lab01p03-suwak\obj\Debug\lab01p03_suwak.Form1.resources
+J:\Programy 2020\WSP_NST_L2\lab01p03-suwak\lab01p03-suwak\obj\Debug\lab01p03_suwak.Properties.Resources.resources
+J:\Programy 2020\WSP_NST_L2\lab01p03-suwak\lab01p03-suwak\obj\Debug\lab01p03-suwak.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_NST_L2\lab01p03-suwak\lab01p03-suwak\obj\Debug\lab01p03-suwak.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_NST_L2\lab01p03-suwak\lab01p03-suwak\obj\Debug\lab01p03-suwak.exe
+J:\Programy 2020\WSP_NST_L2\lab01p03-suwak\lab01p03-suwak\obj\Debug\lab01p03-suwak.pdb
