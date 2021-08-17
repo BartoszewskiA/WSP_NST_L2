@@ -1,0 +1,9 @@
+J:\Programy 2020\WSP_NST_L1\lab1p03-przelicznik\lab1p03-przelicznik\bin\Debug\lab1p03-przelicznik.exe.config
+J:\Programy 2020\WSP_NST_L1\lab1p03-przelicznik\lab1p03-przelicznik\bin\Debug\lab1p03-przelicznik.exe
+J:\Programy 2020\WSP_NST_L1\lab1p03-przelicznik\lab1p03-przelicznik\bin\Debug\lab1p03-przelicznik.pdb
+J:\Programy 2020\WSP_NST_L1\lab1p03-przelicznik\lab1p03-przelicznik\obj\Debug\lab1p03_przelicznik.Form1.resources
+J:\Programy 2020\WSP_NST_L1\lab1p03-przelicznik\lab1p03-przelicznik\obj\Debug\lab1p03_przelicznik.Properties.Resources.resources
+J:\Programy 2020\WSP_NST_L1\lab1p03-przelicznik\lab1p03-przelicznik\obj\Debug\lab1p03-przelicznik.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_NST_L1\lab1p03-przelicznik\lab1p03-przelicznik\obj\Debug\lab1p03-przelicznik.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_NST_L1\lab1p03-przelicznik\lab1p03-przelicznik\obj\Debug\lab1p03-przelicznik.exe
+J:\Programy 2020\WSP_NST_L1\lab1p03-przelicznik\lab1p03-przelicznik\obj\Debug\lab1p03-przelicznik.pdb

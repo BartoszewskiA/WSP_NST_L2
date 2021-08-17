@@ -1,0 +1,8 @@
+J:\Programy 2020\WSP_NST_L1\lab1p01\lab1p01\bin\Debug\lab1p01.exe
+J:\Programy 2020\WSP_NST_L1\lab1p01\lab1p01\bin\Debug\lab1p01.exe.config
+J:\Programy 2020\WSP_NST_L1\lab1p01\lab1p01\obj\Debug\lab1p01.Form1.resources
+J:\Programy 2020\WSP_NST_L1\lab1p01\lab1p01\obj\Debug\lab1p01.Properties.Resources.resources
+J:\Programy 2020\WSP_NST_L1\lab1p01\lab1p01\obj\Debug\lab1p01.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_NST_L1\lab1p01\lab1p01\obj\Debug\lab1p01.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_NST_L1\lab1p01\lab1p01\obj\Debug\lab1p01.exe
+J:\Programy 2020\WSP_NST_L1\lab1p01\lab1p01\obj\Debug\lab1p01.pdb
